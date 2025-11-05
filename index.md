@@ -6,7 +6,7 @@ title: Home
 # 👋 My Data → ML Learning Journal
 
 Welcome to my learning journey!  
-I’m transitioning from data analytics into data engineering and machine learning.  
+Data Engineering / Machine Learning
 This site documents my progress, lessons, and projects.
 
 ---
