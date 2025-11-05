@@ -3,10 +3,9 @@ layout: default
 title: Home
 ---
 
-# 👋 My Data → ML Learning Journal
+# 👋 My Data Engineering Journal
 
-Welcome to my learning journey!  
-Data Engineering / Machine Learning
+Data Engineering
 This site documents my progress, lessons, and projects.
 
 ---
