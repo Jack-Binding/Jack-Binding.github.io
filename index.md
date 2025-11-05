@@ -16,7 +16,7 @@ This site documents my progress, lessons, and projects.
 |------------|------------------|------------|------|
 | Python Developer - Zero to Mastery | XX% | 2025-11-05 | [Notes](courses/python.md) |
 | DBT | XX% | 2025-11-05 | [Notes](courses/dbt.md) |
-| Apache Airflow | XX% | 2025-11-04 | [Notes](courses/airflow.md) |
+| Apache Airflow | XX% | 2025-11-04 | [Apache Airflow Notes](courses/airflow.md) |
 
 ---
 ## 🗓️ Latest Updates
